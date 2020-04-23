@@ -6,7 +6,7 @@
 1. Электронные версии разных методических пособий
 
 # Еще полезные ссылки
-(Клендарь 911 группы со сроками сдачи дз и прочим)[https://docs.google.com/spreadsheets/d/1mRaD19QDzDW5SBSQhB7x2FFImR883gcqXcq00t2m1CE/edit?usp=sharing]
+[Клендарь 911 группы со сроками сдачи дз и прочим](https://docs.google.com/spreadsheets/d/1mRaD19QDzDW5SBSQhB7x2FFImR883gcqXcq00t2m1CE/edit?usp=sharing)
 
 # Содействие
 Вы можете добавлять свои конспекты по тем или иным предметам, это приветствуется.  
