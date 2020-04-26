@@ -1,5 +1,5 @@
 # "Официальные" ссылки
-Лекции 2го семестра от Овча (новые, но только первые 7) [ - тут.](https://lms.mipt.ru/course/view.php?id=12&type=lecture#section-2)  
+[Лекции 2го семестра от Овча (новые, но только первые 7)](https://lms.mipt.ru/course/view.php?id=12&type=lecture#section-2)  
 Лекции 2го семестра от Овча (старые, 2013г) [- тут.](https://lectoriy.mipt.ru/course/Physics-Thermodynamics-09L/lectures)  
 // нужно добавить материалы семинаров
 
