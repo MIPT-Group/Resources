@@ -6,7 +6,7 @@
 [3ий контест (дедлайн 10.05).](https://contest.yandex.ru/contest/17986/enter/)  
 
 ## Обратная связь
-[ВК семинариста.](https://vk.com/irkstepanov)  
+[ВК лектора (Степанов Илья Даниилович).](https://vk.com/irkstepanov)  
 [Сайт Бабичева.](https://www.babichev.org/mipt/seminars/FIVT/)  
 [Почта Семинариста (Бабичев Сергей Леонидович).](bsl8484@gmail.com)
 
