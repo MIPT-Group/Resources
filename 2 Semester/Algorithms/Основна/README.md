@@ -5,7 +5,10 @@
 [Таблица с баллами.](https://docs.google.com/spreadsheets/d/1MwjMS8fu23_0M_Z-2szQvmFlnYGF8mZwsdL7X08VMCs/edit#gid=356141795)  
 [3ий контест (дедлайн 10.05).](https://contest.yandex.ru/contest/17986/enter/)  
 
-[Сайт Бабичева.](https://www.babichev.org/mipt/seminars/FIVT/)
+## Обратная связь
+[ВК семинариста.](https://vk.com/irkstepanov)  
+[Сайт Бабичева.](https://www.babichev.org/mipt/seminars/FIVT/)  
+[Почта Семинариста (Бабичев Сергей Леонидович).](bsl8484@gmail.com)
 
 # "Неофициальные" ссылки
 [Чекер кодестайла c++ от гугла.](http://cpplint.appspot.com)  
