@@ -3,5 +3,9 @@
 [Лекции 2го семестра от Овча (старые, 2013г)](https://lectoriy.mipt.ru/course/Physics-Thermodynamics-09L/lectures)  
 // нужно добавить материалы семинаров
 
+## Обратная связь
+Почта семинариста (Усков Владимир Владимирович - uskov.vv@mipt.ru  
+
 # "Неофициальные" ссылки
-[Рукописные конспекты от Марка](https://bit.ly/physicssem2)
+[Рукописные конспекты от Марка.](https://bit.ly/physicssem2)
+[Семинарис на wikimipt.](http://wikimipt.org/wiki/Усков_Владимир_Владимирович)
