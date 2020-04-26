@@ -6,7 +6,7 @@
 
 Таблица семера с балами [тут.](https://docs.google.com/spreadsheets/d/1A8Qj4VJAHwqYyuuOg-4VDCM0hyitqkW9pUxq6WmrtPU/edit#gid=719464891)  
 
-Вк семинариста [тут.](https://vk.com/id9617301)
+[Вк семинариста (Стародубцев Дмитрий Евгеньевич)](https://vk.com/id9617301)
 
 # "Неофициальные" ссылки
 Рукописные конспекты от Марка: [тут.](https://bit.ly/calculusMIPT)
