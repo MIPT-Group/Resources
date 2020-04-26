@@ -6,7 +6,7 @@
 [Контест по ООП для Основы](https://contest.yandex.ru/contest/17453/problems/B/)  
 
 ## Обратная связь
-[Вк лектора (Мещерин Илья С.).](https://vk.com/mesyarik)  
+[ВК лектора (Мещерин Илья С.).](https://vk.com/mesyarik)  
 
 # "Неофициальные" ссылки
 [Затеханные конспекты от Марка и Вани](https://github.com/MIPT-Group/Resources/blob/master/2%20Semester/OOP/Lectures_MIPT%20OOP.pdf)  
