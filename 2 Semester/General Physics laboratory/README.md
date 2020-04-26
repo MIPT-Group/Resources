@@ -1,6 +1,7 @@
 # "Официальные" ссылки
 [Лабораторные работы в домашних условиях и другая инфа о лабах.](https://mipt.ru/education/chair/physics/news/laboratornye_raboty_v_domashnikh_usloviyakh)  
 
+## Обратная связь
 [Вк Глуховеца](https://vk.com/mitit)  
 
 # "Неофициальные" ссылки
