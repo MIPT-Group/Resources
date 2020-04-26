@@ -4,6 +4,7 @@
 [Лекции от Мещерина (старые, 2019г)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvY2dY_tnTv3-TJThzcloCvM)  
 // нужно добавить ссылки на новаые лекции. 
 
+## Контесты
 [Контест по ООП для Основы](https://contest.yandex.ru/contest/17453/problems/B/)  
 
 ## Обратная связь
