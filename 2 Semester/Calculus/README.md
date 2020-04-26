@@ -1,12 +1,14 @@
 # "Официальные" ссылки
-Группа Старобоба с новостями в вк [тут.](https://vk.com/club170959292)  
-Лекции 1го семестра от Лукашева [тут.](https://mipt.ru/online/hi-Math/mat-analiz.php)  
+[Группа Старобоба с новостями в вк](https://vk.com/club170959292)  
 // нужно добавить Гугл диск лектора (здесть же записи лекций) [тут.](?)  
 // нужно добавить записи семинаров
 
-Таблица семера с балами [тут.](https://docs.google.com/spreadsheets/d/1A8Qj4VJAHwqYyuuOg-4VDCM0hyitqkW9pUxq6WmrtPU/edit#gid=719464891)  
+[Таблица семера с балами](https://docs.google.com/spreadsheets/d/1A8Qj4VJAHwqYyuuOg-4VDCM0hyitqkW9pUxq6WmrtPU/edit#gid=719464891)  
 
-[Вк семинариста (Стародубцев Дмитрий Евгеньевич)](https://vk.com/id9617301)
+## Обратная связь
+[Вк семинариста (Стародубцев Дмитрий Евгеньевич).](https://vk.com/id9617301)
 
 # "Неофициальные" ссылки
-Рукописные конспекты от Марка: [тут.](https://bit.ly/calculusMIPT)
+[Рукописные конспекты от Марка.](https://bit.ly/calculusMIPT)
+[Старобоб на wikimipt.](http://wikimipt.org/wiki/Стародубцев_Дмитрий_Евгеньевич)
+
