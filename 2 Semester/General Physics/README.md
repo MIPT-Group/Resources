@@ -1,7 +1,8 @@
 # "Официальные" ссылки
 [Лекции 2го семестра от Овча (новые, но только первые 7)](https://lms.mipt.ru/course/view.php?id=12&type=lecture#section-2)  
 [Лекции 2го семестра от Овча (старые, 2013г)](https://lectoriy.mipt.ru/course/Physics-Thermodynamics-09L/lectures)  
-// нужно добавить материалы семинаров
+// нужно добавить материалы семинаров  
+[Таблица с брс баллами.](https://docs.google.com/spreadsheets/d/1HwuChCWgpusm-0oG_RnH-o3sKKyqvB5a6fFEXyAVaZY/edit#gid=0)  
 
 ## Обратная связь
 Лектор (Овчинкин Владимир Александрович).  
