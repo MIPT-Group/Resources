@@ -1,5 +1,6 @@
 # "Официальные" ссылки
 [Лекции от Мещерина (новые, но только первые 7)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaZpaXa8FL24nwcPdS8PPA9)  
+Остальные можно найти во вложениях группы в телеграмме  
 [Лекции от Мещерина (старые, 2019г)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvY2dY_tnTv3-TJThzcloCvM)  
 // нужно добавить ссылки на новаые лекции. 
 
