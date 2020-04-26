@@ -1,6 +1,8 @@
 # "Официальные" ссылки
 Группа Старобоба с новостями в вк [тут.](https://vk.com/club170959292)  
+Лекции 1го семестра от Лукашева [тут.](https://mipt.ru/online/hi-Math/mat-analiz.php)  
 // нужно добавить Гугл диск лектора (здесть же записи лекций) [тут.](?)  
+// нужно добавить записи семинаров
 
 Таблица семера с балами [тут.](https://docs.google.com/spreadsheets/d/1A8Qj4VJAHwqYyuuOg-4VDCM0hyitqkW9pUxq6WmrtPU/edit#gid=719464891)  
 
