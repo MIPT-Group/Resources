@@ -1,6 +1,7 @@
 # "Официальные" ссылки
 [Группа Старобоба с новостями в вк (здесь же выкладываются записи семинаров)](https://vk.com/club170959292)  
 [Таблица семера с балами](https://docs.google.com/spreadsheets/d/1A8Qj4VJAHwqYyuuOg-4VDCM0hyitqkW9pUxq6WmrtPU/edit#gid=719464891)  
+[Варианты экзаменационных контрольных](https://mipt.ru/education/chair/mathematics/exams/exams.php)  
 
 ## Лекции и семинары
 [Лекции Лукашева](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbRaVWZi1GIA_M9q4xwL1VY)  
