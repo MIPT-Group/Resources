@@ -7,7 +7,7 @@
 [Гугл диск со всеми семинарами Старобоба](https://drive.google.com/drive/folders/1daSl8lwAZOfx2r0b_YjscvsLPloEhp_d)  
 
 ## Обратная связь
-Лектор (Лукашов_Алексей_Леонидович)
+Лектор (Лукашов_Алексей_Леонидович)  
 [Вк семинариста (Стародубцев Дмитрий Евгеньевич)](https://vk.com/id9617301)  
 
 # "Неофициальные" ссылки
@@ -16,7 +16,7 @@
 [Лукашев на wikimipt](http://wikimipt.org/wiki/Лукашов_Алексей_Леонидович)  
 
 # Книги
-[Их можно найти здесь](https://drive.google.com/drive/u/1/folders/17SEqLYim13xQUyZGmEqgBYlxxsVzJMkw), среди них:
+[Их можно найти здесь](https://drive.google.com/drive/u/1/folders/17SEqLYim13xQUyZGmEqgBYlxxsVzJMkw), среди них:  
 1. 2 и 3 том задачника
 1. Тер-Крикоров, учебник по матану
 1. 1 и 2 том Зрича
