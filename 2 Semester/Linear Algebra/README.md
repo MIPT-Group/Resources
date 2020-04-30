@@ -1,10 +1,19 @@
 # "Официальные" ссылки
-[Лекции от Кожевникова.](https://lectoriy.mipt.ru/course/LinearAlgebra#lectures)  
-// нужно добавить записи семинаров  
 [Таблица с брс баллами.](https://docs.google.com/spreadsheets/d/1DretH19AgkummaZgSwH1KK15C__SA_JiX8JCRJab3sg/edit#gid=0)  
 
+## Лекции и семинары
+[Лекции от Кожевникова.](https://lectoriy.mipt.ru/course/LinearAlgebra#lectures)  
+// нужно добавить записи семинаров  
+
 ## Обратная связь
+Лектор (Подлипский Олег Константинович)  
 Почта семинариста (Стукопин Владимир Алексеевич) - stukopin@mail.ru
 
 # "Неофициальные" ссылки
-//нужно добавить ссылку на книги
+[Лектор на wikimipt](http://wikimipt.org/wiki/Подлипский_Олег_Константинович)  
+
+# Книги
+[Их можно найти здесь](https://drive.google.com/drive/u/1/folders/1G03VjdbQw1K5t1D75inCAo-prAnTChAE), среди них:
+1. Беклемишев
+1. Решение задач из учебника Беклимишева
+1. Задачник Беклимишева
