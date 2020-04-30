@@ -19,3 +19,9 @@
 # "Неофициальные" ссылки
 [Чекер кодестайла c++ от гугла.](http://cpplint.appspot.com)  
 [Бабичев на wikimipt](http://wikimipt.org/wiki/Бабичев_Сергей_Леонидович)  
+
+# Книги
+[Их можно найти здесь](https://drive.google.com/drive/u/1/folders/1rtyES3Vqz0bpiEHTHHzobXE8jG1xp8JG), среди них:
+1. Корман (3е издание) в английской и русской версиях
+1. Кнут (2й том) в англ версии
+1. Теория к экзамену от фивтов за 2019 (Exam_theory_2sem(201).pdf)
