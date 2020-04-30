@@ -1,6 +1,4 @@
 # "Официальные" ссылки
-
-## Лекции и семинары
 [Таблица с баллами.](https://docs.google.com/spreadsheets/d/1MwjMS8fu23_0M_Z-2szQvmFlnYGF8mZwsdL7X08VMCs/edit#gid=356141795)  
 
 ## Лекции и семинары
@@ -15,8 +13,8 @@
 [ВК лектора (Мещерин Илья С.).](https://vk.com/mesyarik)  
 
 # "Неофициальные" ссылки
-[Затеханные конспекты от Марка и Вани](https://github.com/MIPT-Group/Resources/blob/master/2%20Semester/OOP/Lectures_MIPT%20OOP.pdf)  
 
 # Книги
-[Их можно найти здесь](https://drive.google.com/drive/u/1/folders/1ZcRyGT-zz6ekIrsltcmPj32HHWPlW2Lv), среди них:
+[Затеханные конспекты от Марка и Вани](https://github.com/MIPT-Group/Resources/blob/master/2%20Semester/OOP/Lectures_MIPT%20OOP.pdf)  
+[Книги можно найти здесь](https://drive.google.com/drive/u/1/folders/1ZcRyGT-zz6ekIrsltcmPj32HHWPlW2Lv), среди них:
 1. Язык програмирования 5е издание базовый курс (Стенли Б. Липпман)
