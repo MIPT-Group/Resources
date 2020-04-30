@@ -15,7 +15,7 @@
 [Ахтямов на wikimipt.](http://wikimipt.org/wiki/Ахтямов_Павел)  
 
 # Книги
-[Их можно найти здесь](https://drive.google.com/drive/u/1/folders/1rX9MSHZURU8YGLKvG0gwsENDBIXRYQqO), среди них:
+[Книги можно найти здесь](https://drive.google.com/drive/u/1/folders/1rX9MSHZURU8YGLKvG0gwsENDBIXRYQqO), среди них:
 1. CMake cookbook  (в epub)
 1. Pro Git (в epub)
 
