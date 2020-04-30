@@ -6,7 +6,8 @@
 [Записи старых (2019) лекций Дашкова](https://www.youtube.com/playlist?list=PLys0IdlMg6XcHDE6E88jUYfJIgN-ntmxi)  
 
 ## Обратная связь
-[ВК семинариста (Дашков Евгений Владимирович)](https://vk.com/evgeny.v.dashkov)  
+[ВК (Дашков Евгений Владимирович)](https://vk.com/evgeny.v.dashkov)  
+Почта (Дашков Евгений Владимирович) - edashkov@gmail.ru  
 
 # "Неофициальные" ссылки
 [Лектор (и семинарист) на wikimipt.](http://wikimipt.org/wiki/Дашков_Евгений_Владимирович)
