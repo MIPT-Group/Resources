@@ -18,6 +18,7 @@
     1. [Ссылка на личный кабинет студента](https://profile.mipt.ru)
     1. [Электронная библиотека мфти](https://lib.mipt.ru_)
     1. [Гайд как получить доступ к платным курсам от МФТИ (если ты студент МФТИ)](http://miptstream.ru/2017/05/30/coursera/)
+        1. [А тут список всех курсов от МФТИ](https://www.coursera.org/mipt)
 1. [Клендарь 911 группы со сроками сдачи дз и прочим](https://docs.google.com/spreadsheets/d/1mRaD19QDzDW5SBSQhB7x2FFImR883gcqXcq00t2m1CE/edit?usp=sharing)  
 
 
