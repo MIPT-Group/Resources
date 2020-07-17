@@ -10,8 +10,7 @@
 1. [Диск с книгами](https://drive.google.com/drive/u/1/folders/1-x9WH0vlD8MoJq_7fTfCGphnA3r1jODU) 
 
 ## К экзамену
-1. [Программа экзаменов](https://mipt.ru/education/chair/mathematics/exams/leto_exams/)  
-1. [Расписание экзасенов](https://docs.google.com/spreadsheets/d/1exp6YIsXCvqf2E40cXe5vOdAkeWZsm7aQuvL4stYXWI/edit?usp=sharing)  
+-
 
 # Еще полезные ссылки
 1. Базовые
