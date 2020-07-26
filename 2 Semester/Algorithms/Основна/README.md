@@ -32,6 +32,7 @@
 # Книги
 [Их можно найти здесь](https://drive.google.com/drive/u/1/folders/1rtyES3Vqz0bpiEHTHHzobXE8jG1xp8JG), среди них:
 1. Корман (3е издание) в [английской](https://drive.google.com/file/u/1/d/1-0Nrc79M7mXheJlEwwsnIg9kimPBRay_/view?usp=drive_open) и [русской](https://drive.google.com/file/d/1YznNeHifwwSJ3_GNV9yNiwy-uynGaZix/view?usp=sharing) версиях
-    1. [Ответы на упражнения в Кормане (качественно написаные, всем советую)](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html)
+    1. [Ответы и решения на упражнения (вроде как официальные)](http://mitp-content-server.mit.edu:18180/books/content/sectbyfn?collid=books_pres_0&id=8030&fn=Intro_to_Algo_Selected_Solutions.pdf)
+    1. [Ответы на упражнения в Кормане (мб не официальные, но более подробные и качественно написаные, всем советую)](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html)
 1. Кнут (2й том) в [англ](https://drive.google.com/file/d/1rDkPj-o5NAedpAVVblk8E8QPdKs2r38x/view?usp=sharing) версии
 
