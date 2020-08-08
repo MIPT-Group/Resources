@@ -5,7 +5,7 @@
 
 ## Лекции и семинары
 1. [Лекции в лектории (первые 8)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaIDzD0DaekAzp23WOjeo09)  
-[Гугл диск лектора (здесть же записи остальных лекций).](https://drive.google.com/drive/u/0/folders/1gKqjVhj8P3btz2cr2_uPoHNcjBktQRtx)  
+1. [Гугл диск лектора (здесть же записи остальных лекций).](https://drive.google.com/drive/u/0/folders/1gKqjVhj8P3btz2cr2_uPoHNcjBktQRtx)  
 1. [Конспект лекций (неполный, в основном Степанова и в основном того что не было в Кормане)](https://drive.google.com/file/d/1aPXd_6dmCi-mLAZlW-rOv7crowpvbOyX/view?usp=sharing) 
 
 ## К экзамену
