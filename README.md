@@ -12,7 +12,8 @@
 ## К экзамену
 -
 
-# Еще полезные ссылки
+# Полезные ссылки
+1. [Расписание](https://mipt.ru/about/departments/uchebniy/schedule/study/?clear_cache=Y)
 1. Базовые
     1. [Сайт двойки](https://2ka.mipt.ru)
     1. [Ссылка на личный кабинет студента](https://profile.mipt.ru)
