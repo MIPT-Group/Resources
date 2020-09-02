@@ -19,7 +19,7 @@
 Лектор:  
 
 Семинарист:
-www.mikhailgrigoriev.ru  
+www.mikhailgrigorev.ru  
 
 Задачи будут лежать тут:  
 mathmaker.ru   
