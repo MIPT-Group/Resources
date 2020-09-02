@@ -10,6 +10,7 @@
 ### Семинары  
 - Время: 3 пара (12:20-13:45), 426 ГК
 - Аудитория: 520 ГК
+- [Конспекты](https://drive.google.com/drive/folders/1tFJHs2UJKf76ZTd9OdfSJd9GpGjniu1l?usp=sharing)
 
 ## К экзамену
 БРС:  
