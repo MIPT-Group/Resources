@@ -10,7 +10,7 @@
 ### Семинары  
 - Время: Среда, 5я пара (15:35-16:55)
 - Аудитория: 416 ГК
-
+- [Конспекты](https://drive.google.com/drive/folders/1nBXU4bILOD3tHUI95C_I7c2kFNFkcHdn?usp=sharing)
 ## К экзамену
 БРС:  
 - пока информация отсутствует
