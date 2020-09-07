@@ -1,12 +1,11 @@
-# "Официальные" ссылки
-1. [Лабораторные работы в домашних условиях и другая инфа о лабах.](https://mipt.ru/education/chair/physics/news/laboratornye_raboty_v_domashnikh_usloviyakh)  
+## Лабораторные
+- Время: Пятница, 5-6 пары (15:30-18:30)
 
 ## Обратная связь
-1. [Вк Глуховеца](https://vk.com/mitit)  
+Лабник:
+- [ВК семинариста (пока информация отсутствует)]()
 
 # "Неофициальные" ссылки
 1. [Лабы с тупого ската.](https://drive.google.com/drive/folders/0B9SFeF7JBQulfjR4RGVxbWNuMWFOMzhaY19nQ1dUQlZITFQ0bzR0aUdobGpFc3p5aU5ETXc)  
+2. [Лабник на wikimipt.](http://wikimipt.org/wiki/%D0%A8%D0%B5%D1%80%D0%BE%D0%BD%D0%BE%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87) 
 
-# Книги
-[Их можно найти здесь](https://drive.google.com/drive/u/1/folders/1GCapyhAFyRjKr7eN3SmkKlII4HPNhtdz), среди них:
-1. пока ничего :)
