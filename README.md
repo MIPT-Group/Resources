@@ -11,6 +11,11 @@
 
 ## К экзамену
 1. [Расписание сессии](https://docs.google.com/spreadsheets/d/1yTUXr3TvCak_WfJhlAQ7PN71PO-4TS9DNg6wkO89Vg8/edit?usp=sharing)
+    - 23 декабря –– письмак по физике
+    - 29 декабря –– устный экзамен по физике
+    - 13 января  –– устный экзамен по ОВиТМ
+    - 19 января  –– устный экзамен по Матану
+    - 23 января  –– устный экзамен по Алгоритмам (база и основа)
 
 # Полезные ссылки
 1. [Расписание](https://mipt.ru/about/departments/uchebniy/schedule/study/?clear_cache=Y)
