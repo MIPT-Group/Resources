@@ -14,6 +14,8 @@
 Расписанные билеты:
 - [От Таси К.](https://drive.google.com/drive/folders/1n5d8RnxSC49qOSUqs3JreLrLvEA1ASiI)
 
+[Шаблон](https://www.overleaf.com/read/nxgxzzzvzqmm) для ВПВ в техе.
+
 # "Официальные" ссылки
 ## Лекции и семинары
 ### Лекции  
