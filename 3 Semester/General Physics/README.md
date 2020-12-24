@@ -21,13 +21,13 @@
 Дата письменного –– 23 декабря  
 Дата устного –– 29 декабря
 
-- (ВОПРОСЫ ЭКЗАМЕНАЦИОННЫХ БИЛЕТОВ)[https://mipt.ru/education/chair/physics/S_III/Электричество_2020_21.pdf]
-- (Система тестирования кафедры общей физики МФТИ)[http://testing.physics.mipt.ru]
+- [ВОПРОСЫ ЭКЗАМЕНАЦИОННЫХ БИЛЕТОВ](https://mipt.ru/education/chair/physics/S_III/Электричество_2020_21.pdf)
+- [Система тестирования кафедры общей физики МФТИ](http://testing.physics.mipt.ru)
 
-Ответы к тестам по (электричеству)[https://elect-magn.000webhostapp.com/electricity.html] и (магнитизму)[https://elect-magn.000webhostapp.com/examelect.html] (разные ссылки)
+Ответы к тестам по [электричеству](https://elect-magn.000webhostapp.com/electricity.html) и [магнитизму](https://elect-magn.000webhostapp.com/examelect.html) (разные ссылки)
 
 Расписанные билеты:
-- (От Таси К.)[https://drive.google.com/drive/folders/1n5d8RnxSC49qOSUqs3JreLrLvEA1ASiI]
+- [От Таси К.](https://drive.google.com/drive/folders/1n5d8RnxSC49qOSUqs3JreLrLvEA1ASiI)
 
 
 ## Обратная связь
