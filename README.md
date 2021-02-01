@@ -9,7 +9,7 @@
 ## Книги
 1. [Диск с книгами](https://drive.google.com/drive/u/1/folders/1-x9WH0vlD8MoJq_7fTfCGphnA3r1jODU) 
 
-## Учебный процесс
+# Учебный процесс
 1. [Расписание дистанционных занятий](https://mipt.ru/education/elektronnoe-obuchenie/e-schedule.php)
 
 # Полезные ссылки
